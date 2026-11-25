@@ -5,8 +5,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
     '---''(_/--'  `-'\_)
 ```
 
-# Mihir
-
 Sophomore CS undergrad @ COEP, Pune.
 ICPC Regionalist (2026, Asia West Kanpur Multisite).
 
