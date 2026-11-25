@@ -5,9 +5,10 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
     '---''(_/--'  `-'\_)
 ```
 
-# mihir
+# Mihir
 
-CS undergrad @ COEP, Pune.
+Sophomore CS undergrad @ COEP, Pune.
+ICPC Regionalist (2026, Asia West Kanpur Multisite).
 
 I write code and (try to) figure out how things work.
 
